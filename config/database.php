@@ -58,7 +58,7 @@ return [
             'NO_ZERO_DATE',
             'ERROR_FOR_DIVISION_BY_ZERO',
             'NO_ENGINE_SUBSTITUTION',
-            'NO_AUTO_CREATE_USER',
+            //'NO_AUTO_CREATE_USER',
             ],
         ],
 
